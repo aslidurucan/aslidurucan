@@ -18,15 +18,6 @@
 ---
 
 
-## 📈 Focus Areas
-- Backend Architecture
-- RESTful API Development
-- ORM & Database Optimization
-- Clean Code & SOLID Principles
-- Layered Architecture
-
----
-
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/aslidurucan
 - Email: aslidurucan22@gmail.com
