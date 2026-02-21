@@ -4,7 +4,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,mssql,postgres,mysql,sqlite,firebase,postman,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,postgres,mysql,sqlite,firebase,postman,docker,git,github" />
 </p>
 
 ---
