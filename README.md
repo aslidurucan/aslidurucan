@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslı Durucan</h1>
-<h3 align="center">Full Stack  Developer | .NET & Java Spring Boot | Database-Oriented Development</h3>
+<h3 align="center">Full Stack  Developer | .NET | Database-Oriented Development</h3>
 
 ## 🛠 Tech Stack
 
@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 - 💻 I focus on backend development.
-- ⚙️ I build RESTful APIs using .NET 8 Web API and Spring Boot.
+- ⚙️ I build RESTful APIs using .NET 8 Web API.
 - 🗄️ I work with database design and ORM technologies.
 - 🧠 I follow OOP principles and layered architecture patterns.
 - 🎯 Clean code, maintainable architecture, and proper data modeling are my priorities.
