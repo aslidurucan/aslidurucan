@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aslı Durucan</h1>
-<h3 align="center">Full Stack  Developer | .NET | Database-Oriented Development</h3>
+<h3 align="center">Full Stack  Developer | .NET , JAVA | Database-Oriented Development</h3>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,postgres,mysql,sqlite,firebase,postman,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,postgres,mysql,sqlite,firebase,postman,docker,git,github" />
 </p>
 
 ---
